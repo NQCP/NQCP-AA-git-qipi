@@ -9,7 +9,7 @@ Srushti Patil and Nina Glaser, *Efficient targeting of arbitrary excited states 
 We develop a quantum inverse power iteration (QIPI) algorithm using filtering polynomials and quantum singular value transformation (QSVT)[1] for excited-state targeting. The code provides scripts to reproduce numerical results reported in the paper.
 
 <div align="center">
-  <img width="500" height="300" alt="general_QIPI" src="https://github.com/user-attachments/assets/746d38cc-5428-4cc5-b560-a7b0de54cc57" />
+  <img width="500" alt="general_QIPI" src="image.png" />
 </div>
 
 
