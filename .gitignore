@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+
+# Local data blobs (regenerable)
+*.npy
+*.npz
+
+# Generated outputs
+archive/
+
+# Generated data and figures; keep the directories themselves
+QIPI/data/*
+!QIPI/data/.gitkeep
+paper_plots/*
+!paper_plots/.gitkeep

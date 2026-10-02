@@ -1,0 +1,40 @@
+figure.facecolor: white
+figure.edgecolor: 0.50
+
+patch.linewidth: 0.5
+patch.facecolor: 348ABD  # blue
+patch.edgecolor: EEEEEE
+patch.antialiased: True
+
+font.size: 20.0
+
+axes.edgecolor: white
+axes.titlesize : large
+axes.labelsize : 25 
+axes.linewidth: 1
+axes.facecolor : 0.925
+axes.grid: True
+axes.labelcolor: 555555
+axes.axisbelow: True       # grid/ticks are below elements (e.g., lines, text)
+
+xtick.color: 555555
+xtick.direction: out
+xtick.labelsize : 22
+
+ytick.color: 555555
+ytick.direction: out
+ytick.labelsize : 22
+
+grid.color: white
+grid.linestyle: -    # solid line
+
+lines.linewidth : 1.5
+lines.markersize : 6
+
+legend.facecolor : 0.975
+legend.title_fontsize : large
+legend.fontsize : 20
+
+axes.prop_cycle: cycler('color', ['1f77b4', 'ff7f0e', '2ca02c', 'd62728', '9467bd', '8c564b', 'e377c2', '7f7f7f', 'bcbd22', '17becf'])
+# NQCP colors - not great for plots
+# axes.prop_cycle: cycler('color', ['197f8e', '666666', '3929b7', '425570', '4b8325', 'fefaf2', '901a1e', 'c73028'])
